@@ -6,9 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&lines=Computer+Engineering+Student+%40+GEC+Bharuch;Building+NIX+%E2%80%94+a+Kotlin+Android+Voice+Assistant;React+%2B+Node.js+%2B+Firebase+%2B+MySQL;Home+Automation+%7C+AC+%26+TV+Control+over+Kotlin;Turning+side+projects+into+real+products" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://nitishmandal.site"><img src="https://img.shields.io/badge/PORTFOLIO-nitishmandal.site-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d"/></a> <a href="https://github.com/mandalnitish?tab=followers"><img src="https://img.shields.io/github/followers/mandalnitish?style=for-the-badge&logo=github&label=FOLLOWERS&color=38bdf8&labelColor=0d0d0d"/></a> <img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-38bdf8?style=for-the-badge&labelColor=0d0d0d"/>
+<a href="https://nitishmandal.site">
+  <img src="https://img.shields.io/badge/PORTFOLIO-nitishmandal.site-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://github.com/mandalnitish?tab=followers">
+  <img src="https://img.shields.io/github/followers/mandalnitish?style=for-the-badge&logo=github&label=FOLLOWERS&color=38bdf8&labelColor=0d0d0d"/>
+</a>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-38bdf8?style=for-the-badge&labelColor=0d0d0d"/>
 
 </div>
 
@@ -17,57 +23,156 @@
 ## About Me
 
 ```yaml
-name    : Nitish Mandal
-role    : Full-Stack Developer & Android/IoT Tinkerer
-college : Government Engineering College, Bharuch (GTU) — Sem VII, Computer Engg.
-country : India
+name      : Nitish Mandal
+role      : Full-Stack Developer | Android & IoT Builder
+education : B.E. Computer Engineering | GEC Bharuch | GTU
+location  : India
 
-passion : Building things I actually use every day — not just tutorial projects
+focus:
+  - Android development with Kotlin
+  - Full-stack web applications
+  - Voice interfaces and automation
+  - IoT and hardware integration
 
-currently:
-  - Building NIX, a Kotlin voice assistant with wake-word detection & custom TTS
-  - Running a live Tuition Management System (React + Express + MySQL) on my own domain
-  - Home automation relay with AC and native Android TV Remote (protocol v2)
+currently_building:
+  - NIX — Kotlin Android Voice Assistant
+  - Production-ready web applications
+  - Home automation systems
 
-status  : Open to Full-Stack / Android internship & freelance opportunities
+availability : Open to internship and freelance opportunities
 ```
-
----
-
-## Featured Projects
-
-<div align="center">
-
-| # | Project | Description | Stack | Link |
-|---|---------|-------------|-------|------|
-| 01 | **NIX / VoiceAssistant** | Kotlin Android voice assistant — wake word detection, YouTube playback, Panasonic MirAIe AC control panel, native Android TV Remote (TLS 1.2, protobuf) | `Kotlin` `Flask` | [Repo](https://github.com/mandalnitish/VoiceAssistant) |
-| 02 | **Organ Donor Management System** | Team academic project — live donor tracking map, police verification workflow, admin panel | `React` `Firebase` | [Repo](https://github.com/mandalnitish/odms_project) |
-| 03 | **NMAI** | NMAI (National & Major Affairs Of India) is an exam-oriented digital platform dedicated to providing structured current affairs and analytical content for competitive examinations such as UPSC, SSC, Banking, Railway, and State PSC. | `CSS` `MongoDB` | [Live](https://nmai.in) · [Repo](https://github.com/mandalnitish/nmai-project) |
-| 04 | **Portfolio** | Personal site with an admin inbox powered by Firebase Cloud Functions | `React` `Firebase` | [Live](https://nitishmandal.site) |
-| 05 | **Tuition Management System** | Full production app for managing tuition classes — receipts/PDF generation, WhatsApp sharing, mobile-responsive dashboard | `React` `Express` `MySQL` | [Repo](https://github.com/mandalnitish/tuition-management-system) |
-| 06 | **NixPDF** | All-in-one browser PDF tool — merge, split, compress & convert | `JavaScript` | [Repo](https://github.com/mandalnitish/nixpdf) |
-
-</div>
 
 ---
 
 ## Tech Stack
 
-**Mobile & Hardware**
+### Mobile & Hardware
 
 <img src="https://img.shields.io/badge/KOTLIN-0d0d0d?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/> <img src="https://img.shields.io/badge/ANDROID-0d0d0d?style=for-the-badge&logo=android&logoColor=3DDC84"/>
 
-**Frontend**
+### Frontend
 
 <img src="https://img.shields.io/badge/REACT-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/VITE-0d0d0d?style=for-the-badge&logo=vite&logoColor=646CFF"/> <img src="https://img.shields.io/badge/JAVASCRIPT-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-**Backend & Data**
+### Backend & Data
 
 <img src="https://img.shields.io/badge/NODE.JS-0d0d0d?style=for-the-badge&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/EXPRESS-0d0d0d?style=for-the-badge&logo=express&logoColor=ffffff"/> <img src="https://img.shields.io/badge/MYSQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/FIREBASE-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/PYTHON-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/FLASK-0d0d0d?style=for-the-badge&logo=flask&logoColor=ffffff"/>
 
-**Tools**
+### Tools
 
-<img src="https://img.shields.io/badge/GIT-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/VS%20CODE-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/> <img src="https://img.shields.io/badge/ANDROID%20STUDIO-0d0d0d?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/> <img src="https://img.shields.io/badge/VERCEL-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GIT-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VS%20CODE-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/> <img src="https://img.shields.io/badge/ANDROID%20STUDIO-0d0d0d?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/> <img src="https://img.shields.io/badge/VERCEL-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### NIX / VoiceAssistant
+
+Kotlin-powered Android voice assistant featuring wake-word detection, custom TTS, YouTube playback, Panasonic MirAIe AC control, and a native Android TV Remote using TLS and protobuf.
+
+`Kotlin` `Android` `Flask` `Voice AI`
+
+<br/><br/>
+
+<a href="https://github.com/mandalnitish/VoiceAssistant">
+  <img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Organ Donor Management System
+
+Healthcare management platform featuring donor-recipient workflows, live transport tracking, police verification, hospital coordination, and an administrative dashboard.
+
+`React` `Firebase` `Maps`
+
+<br/><br/>
+
+<a href="https://github.com/mandalnitish/odms_project">
+  <img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### NMAI
+
+Exam-oriented digital platform providing structured current affairs and analytical content for UPSC, SSC, Banking, Railway, and State PSC preparation.
+
+`CSS` `MongoDB` `Content Platform`
+
+<br/><br/>
+
+<a href="https://nmai.in">
+  <img src="https://img.shields.io/badge/Live_Project-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d0d"/>
+</a>
+
+<a href="https://github.com/mandalnitish/nmai-project">
+  <img src="https://img.shields.io/badge/Repository-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Portfolio
+
+Personal portfolio website showcasing projects and development work, with an administrative inbox powered by Firebase Cloud Functions.
+
+`React` `Firebase` `Cloud Functions`
+
+<br/><br/>
+
+<a href="https://nitishmandal.site">
+  <img src="https://img.shields.io/badge/Visit_Site-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Tuition Management System
+
+Production application for managing tuition classes with student records, payments, receipt and PDF generation, WhatsApp sharing, and a responsive dashboard.
+
+`React` `Express` `MySQL`
+
+<br/><br/>
+
+<a href="https://github.com/mandalnitish/tuition-management-system">
+  <img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### NixPDF
+
+Browser-based PDF toolkit for merging, splitting, compressing, and converting PDF files without requiring traditional desktop software.
+
+`JavaScript` `PDF Tools`
+
+<br/><br/>
+
+<a href="https://github.com/mandalnitish/nixpdf">
+  <img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,7 +180,11 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-nitish-mandal.vercel.app/api?username=mandalnitish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&icon_color=38bdf8&text_color=eef1f5&count_private=true"/> <img height="165" src="https://github-readme-stats-nitish-mandal.vercel.app/api/top-langs/?username=mandalnitish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&text_color=eef1f5&langs_count=8"/>
+<img height="165" src="https://github-readme-stats-nitish-mandal.vercel.app/api?username=mandalnitish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&icon_color=38bdf8&text_color=eef1f5&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats-nitish-mandal.vercel.app/api/top-langs/?username=mandalnitish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&text_color=eef1f5&langs_count=8"/>
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats-git-vercel-nitish-mandal.vercel.app/?user=mandalnitish&theme=dark&hide_border=true&background=0d0d0d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=eef1f5&dates=eef1f5"/>
 
@@ -86,7 +195,9 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 ## Contribution Graph
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandalnitish&bg_color=0d0d0d&color=38bdf8&line=38bdf8&point=eef1f5&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Timeline"/>
+
 </div>
 
 ---
@@ -105,11 +216,16 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 <div align="center">
 
-<a href="https://nitishmandal.site"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=flat-square&logo=vercel&logoColor=white"/></a>
-<!-- Add your email / LinkedIn badges below the same way, e.g.: -->
-<!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> -->
-<!-- <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
+<a href="https://nitishmandal.site">
+  <img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d"/>
+</a>
+
+<a href="https://github.com/mandalnitish">
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&width=100%"/>
