@@ -29,7 +29,7 @@ passion : Building things I actually use every day — not just tutorial project
 currently:
   - Building NIX, a Kotlin voice assistant with wake-word detection & custom TTS
   - Running a live Tuition Management System (React + Express + MySQL) on my own domain
-  - Replacing my PC-based home automation relay with native Android TV Remote (protocol v2)
+  - Home automation relay with AC and native Android TV Remote (protocol v2)
 
 status  : Open to Full-Stack / Android internship & freelance opportunities
 ```
@@ -43,11 +43,11 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 | # | Project | Description | Stack | Link |
 |---|---------|-------------|-------|------|
 | 01 | **NIX / VoiceAssistant** | Kotlin Android voice assistant — wake word detection, YouTube playback, Panasonic MirAIe AC control panel, native Android TV Remote (TLS 1.2, protobuf) | `Kotlin` `Flask` | [Repo](https://github.com/mandalnitish/VoiceAssistant) |
-| 02 | **Tuition Management System** | Full production app for managing tuition classes — receipts/PDF generation, WhatsApp sharing, mobile-responsive dashboard | `React` `Express` `MySQL` | [Repo](https://github.com/mandalnitish/tuition-management-system) |
-| 03 | **Organ Donor Management System** | Team academic project — live donor tracking map, police verification workflow, admin panel | `React` `Firebase` | [Repo](https://github.com/mandalnitish/odms_project) |
-| 04 | **NixPDF** | All-in-one browser PDF tool — merge, split, compress & convert | `JavaScript` | [Repo](https://github.com/mandalnitish/nixpdf) |
-| 05 | **Portfolio** | Personal site with an admin inbox powered by Firebase Cloud Functions | `React` `Firebase` | [Live](https://nitishmandal.site) |
-
+| 02 | **Organ Donor Management System** | Team academic project — live donor tracking map, police verification workflow, admin panel | `React` `Firebase` | [Repo](https://github.com/mandalnitish/odms_project) |
+| 03 | **NMAI** | Live project deployed at nmai.in | `CSS` | [Live](https://nmai.in) · [Repo](https://github.com/mandalnitish/nmai-project) |
+| 04 | **Portfolio** | Personal site with an admin inbox powered by Firebase Cloud Functions | `React` `Firebase` | [Live](https://nitishmandal.site) |
+| 05 | **Tuition Management System** | Full production app for managing tuition classes — receipts/PDF generation, WhatsApp sharing, mobile-responsive dashboard | `React` `Express` `MySQL` | [Repo](https://github.com/mandalnitish/tuition-management-system) |
+| 06 | **NixPDF** | All-in-one browser PDF tool — merge, split, compress & convert | `JavaScript` | [Repo](https://github.com/mandalnitish/nixpdf) |
 </div>
 
 ---
@@ -112,6 +112,7 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 ```
 
 ---
+
 
 ## Connect With Me
 
