@@ -16,7 +16,7 @@
 
 <br/>
 
-## 📌 About Me
+## About Me
 
 ```yaml
 name    : Nitish Mandal
@@ -36,7 +36,7 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -52,7 +52,7 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Mobile & Hardware**
 
@@ -83,7 +83,7 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -96,7 +96,7 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandalnitish&bg_color=0d0d0d&color=38bdf8&line=38bdf8&point=eef1f5&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Timeline"/>
@@ -104,7 +104,7 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 > Add the [snake workflow](https://github.com/Platane/snk) to your `mandalnitish/mandalnitish` repo's Actions to auto-generate this — it's a fun animated version of your contribution graph. Once set up, embed it here:
 ```md
@@ -113,15 +113,7 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mandalnitish&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-</div>
-
----
-
-## 🔗 Connect With Me
+## Connect With Me
 
 <div align="center">
 
