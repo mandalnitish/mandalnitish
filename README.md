@@ -24,6 +24,7 @@
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
 ### Building products across Web, Android and IoT
@@ -32,13 +33,13 @@ I am **Nitish Mandal**, a Computer Engineering student focused on building pract
 
 My work currently spans **full-stack development, Kotlin Android applications, voice interfaces, IoT systems and backend architecture**.
 
-**Currently building**
+### Currently Building
 
-- **NIX** — a Kotlin-powered Android Voice Assistant
-- **Smart Home Automation** — AC, TV and relay control systems
-- **Production-ready Web Applications** — React, Node.js and database systems
+* **NIX** — a Kotlin-powered Android Voice Assistant
+* **Smart Home Automation** — AC, TV and relay control systems
+* **Production-ready Web Applications** — React, Node.js and database systems
 
-**Looking for**
+### Looking For
 
 Full-Stack and Android internship opportunities, freelance projects, and collaborations involving practical product development.
 
@@ -63,6 +64,22 @@ India
 
 STATUS
 Open to Opportunities
+```
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ANDROID-38BDF8?style=for-the-badge&logo=android&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/FULL--STACK-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/IOT%20%26%20AUTOMATION-38BDF8?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0d0d0d"/>
+
+</div>
 
 ---
 
@@ -90,6 +107,7 @@ Open to Opportunities
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### NIX / VoiceAssistant
@@ -121,9 +139,11 @@ Healthcare management platform featuring donor-recipient workflows, live transpo
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### NMAI
@@ -159,9 +179,11 @@ Personal portfolio website showcasing projects and development work, with an adm
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### Tuition Management System
@@ -193,6 +215,7 @@ Browser-based PDF toolkit for merging, splitting, compressing, and converting PD
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -228,7 +251,7 @@ Browser-based PDF toolkit for merging, splitting, compressing, and converting PD
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mandalnitish/mandalnitish/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/mandalnitish/mandalnitish/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
