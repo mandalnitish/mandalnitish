@@ -8,9 +8,7 @@
 
 <br/>
 
-<a href="https://nitishmandal.site"><img src="https://img.shields.io/badge/PORTFOLIO-nitishmandal.site-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d"/></a>
-<a href="https://github.com/mandalnitish?tab=followers"><img src="https://img.shields.io/github/followers/mandalnitish?style=for-the-badge&logo=github&label=FOLLOWERS&color=38bdf8&labelColor=0d0d0d"/></a>
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-38bdf8?style=for-the-badge&labelColor=0d0d0d"/>
+<a href="https://nitishmandal.site"><img src="https://img.shields.io/badge/PORTFOLIO-nitishmandal.site-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d"/></a> <a href="https://github.com/mandalnitish?tab=followers"><img src="https://img.shields.io/github/followers/mandalnitish?style=for-the-badge&logo=github&label=FOLLOWERS&color=38bdf8&labelColor=0d0d0d"/></a> <img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-38bdf8?style=for-the-badge&labelColor=0d0d0d"/>
 
 </div>
 
@@ -48,6 +46,7 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 | 04 | **Portfolio** | Personal site with an admin inbox powered by Firebase Cloud Functions | `React` `Firebase` | [Live](https://nitishmandal.site) |
 | 05 | **Tuition Management System** | Full production app for managing tuition classes — receipts/PDF generation, WhatsApp sharing, mobile-responsive dashboard | `React` `Express` `MySQL` | [Repo](https://github.com/mandalnitish/tuition-management-system) |
 | 06 | **NixPDF** | All-in-one browser PDF tool — merge, split, compress & convert | `JavaScript` | [Repo](https://github.com/mandalnitish/nixpdf) |
+
 </div>
 
 ---
@@ -56,30 +55,19 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 **Mobile & Hardware**
 
-<img src="https://img.shields.io/badge/KOTLIN-0d0d0d?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
-<img src="https://img.shields.io/badge/ANDROID-0d0d0d?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/KOTLIN-0d0d0d?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/> <img src="https://img.shields.io/badge/ANDROID-0d0d0d?style=for-the-badge&logo=android&logoColor=3DDC84"/>
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/REACT-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/VITE-0d0d0d?style=for-the-badge&logo=vite&logoColor=646CFF"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/REACT-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/VITE-0d0d0d?style=for-the-badge&logo=vite&logoColor=646CFF"/> <img src="https://img.shields.io/badge/JAVASCRIPT-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 **Backend & Data**
 
-<img src="https://img.shields.io/badge/NODE.JS-0d0d0d?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/EXPRESS-0d0d0d?style=for-the-badge&logo=express&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/MYSQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/FIREBASE-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/PYTHON-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/FLASK-0d0d0d?style=for-the-badge&logo=flask&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/NODE.JS-0d0d0d?style=for-the-badge&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/EXPRESS-0d0d0d?style=for-the-badge&logo=express&logoColor=ffffff"/> <img src="https://img.shields.io/badge/MYSQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/FIREBASE-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/PYTHON-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/FLASK-0d0d0d?style=for-the-badge&logo=flask&logoColor=ffffff"/>
 
 **Tools**
 
-<img src="https://img.shields.io/badge/GIT-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/VS%20CODE-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/ANDROID%20STUDIO-0d0d0d?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/VERCEL-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GIT-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/VS%20CODE-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/> <img src="https://img.shields.io/badge/ANDROID%20STUDIO-0d0d0d?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/> <img src="https://img.shields.io/badge/VERCEL-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
 
 ---
 
@@ -87,8 +75,7 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mandalnitish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&icon_color=38bdf8&text_color=eef1f5&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandalnitish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&text_color=eef1f5&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mandalnitish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&icon_color=38bdf8&text_color=eef1f5&count_private=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandalnitish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&text_color=eef1f5&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com/?user=mandalnitish&theme=dark&hide_border=true&background=0d0d0d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=eef1f5&dates=eef1f5"/>
 
@@ -112,7 +99,6 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 ```
 
 ---
-
 
 ## Connect With Me
 
