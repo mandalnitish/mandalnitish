@@ -22,25 +22,47 @@
 
 ## About Me
 
-```yaml
-name      : Nitish Mandal
-role      : Full-Stack Developer | Android & IoT Builder
-education : B.E. Computer Engineering | GEC Bharuch | GTU
-location  : India
+<table>
+<tr>
+<td width="65%" valign="top">
 
-focus:
-  - Android development with Kotlin
-  - Full-stack web applications
-  - Voice interfaces and automation
-  - IoT and hardware integration
+### Building products across Web, Android and IoT
 
-currently_building:
-  - NIX — Kotlin Android Voice Assistant
-  - Production-ready web applications
-  - Home automation systems
+I am **Nitish Mandal**, a Computer Engineering student focused on building practical products that combine **software, hardware and real-world automation**.
 
-availability : Open to internship and freelance opportunities
-```
+My work currently spans **full-stack development, Kotlin Android applications, voice interfaces, IoT systems and backend architecture**.
+
+**Currently building**
+
+- **NIX** — a Kotlin-powered Android Voice Assistant
+- **Smart Home Automation** — AC, TV and relay control systems
+- **Production-ready Web Applications** — React, Node.js and database systems
+
+**Looking for**
+
+Full-Stack and Android internship opportunities, freelance projects, and collaborations involving practical product development.
+
+</td>
+
+<td width="35%" valign="top">
+
+```text
+NITISH.MANDAL
+──────────────
+
+ROLE
+Full-Stack Developer
+Android & IoT Builder
+
+EDUCATION
+B.E. Computer Engineering
+GEC Bharuch | GTU
+
+BASED IN
+India
+
+STATUS
+Open to Opportunities
 
 ---
 
