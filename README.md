@@ -31,7 +31,7 @@
 
 I am **Nitish Mandal**, a Computer Engineering student focused on building practical products that combine **software, hardware and real-world automation**.
 
-My work currently spans **full-stack development, Kotlin Android applications, voice interfaces, IoT systems and backend architecture**.
+My work currently spans **full-stack Java development, Kotlin Android applications, voice interfaces, IoT systems and backend architecture**.
 
 ### Currently Building
 
@@ -41,7 +41,7 @@ My work currently spans **full-stack development, Kotlin Android applications, v
 
 ### Looking For
 
-Full-Stack and Android internship opportunities, freelance projects, and collaborations involving practical product development.
+Full-Stack Java and Android internship opportunities, freelance projects, and collaborations involving practical product development.
 
 </td>
 
