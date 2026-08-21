@@ -52,7 +52,7 @@ NITISH.MANDAL
 ──────────────
 
 ROLE
-Full-Stack Developer
+Full-Stack Java Developer
 Android & IoT Builder
 
 EDUCATION
