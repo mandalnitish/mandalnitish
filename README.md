@@ -44,7 +44,7 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 |---|---------|-------------|-------|------|
 | 01 | **NIX / VoiceAssistant** | Kotlin Android voice assistant — wake word detection, YouTube playback, Panasonic MirAIe AC control panel, native Android TV Remote (TLS 1.2, protobuf) | `Kotlin` `Flask` | [Repo](https://github.com/mandalnitish/VoiceAssistant) |
 | 02 | **Organ Donor Management System** | Team academic project — live donor tracking map, police verification workflow, admin panel | `React` `Firebase` | [Repo](https://github.com/mandalnitish/odms_project) |
-| 03 | **NMAI** | Live project deployed at nmai.in | `CSS` | [Live](https://nmai.in) · [Repo](https://github.com/mandalnitish/nmai-project) |
+| 03 | **NMAI** | NMAI (National & Major Affairs Of India) is an exam-oriented digital platform dedicated to providing structured current affairs and analytical content for competitive examinations such as UPSC, SSC, Banking, Railway, and State PSC. | `CSS` | [Live](https://nmai.in) · [Repo](https://github.com/mandalnitish/nmai-project) |
 | 04 | **Portfolio** | Personal site with an admin inbox powered by Firebase Cloud Functions | `React` `Firebase` | [Live](https://nitishmandal.site) |
 | 05 | **Tuition Management System** | Full production app for managing tuition classes — receipts/PDF generation, WhatsApp sharing, mobile-responsive dashboard | `React` `Express` `MySQL` | [Repo](https://github.com/mandalnitish/tuition-management-system) |
 | 06 | **NixPDF** | All-in-one browser PDF tool — merge, split, compress & convert | `JavaScript` | [Repo](https://github.com/mandalnitish/nixpdf) |
