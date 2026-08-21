@@ -75,9 +75,9 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mandalnitish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&icon_color=38bdf8&text_color=eef1f5&count_private=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandalnitish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&text_color=eef1f5&langs_count=8"/>
+<img height="165" src="https://github-readme-stats-nitish-mandal.vercel.app/api?username=mandalnitish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&icon_color=38bdf8&text_color=eef1f5&count_private=true"/> <img height="165" src="https://github-readme-stats-nitish-mandal.vercel.app/api/top-langs/?username=mandalnitish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=38bdf8&text_color=eef1f5&langs_count=8"/>
 
-<img src="https://streak-stats.demolab.com/?user=mandalnitish&theme=dark&hide_border=true&background=0d0d0d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=eef1f5&dates=eef1f5"/>
+<img src="https://github-readme-streak-stats-git-vercel-nitish-mandal.vercel.app/?user=mandalnitish&theme=dark&hide_border=true&background=0d0d0d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=eef1f5&dates=eef1f5"/>
 
 </div>
 
