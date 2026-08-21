@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NITISH%20MANDAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Android%20and%20Home%20Automation%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NITISH%20MANDAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Java%20Developer%20%7C%20Android%20and%20IOT%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/mandalnitish">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&lines=Computer+Engineering+Student+%40+GEC+Bharuch;Building+NIX+%E2%80%94+a+Kotlin+Android+Voice+Assistant;React+%2B+Node.js+%2B+Firebase+%2B+MySQL;Home+Automation+%7C+AC+%26+TV+Control+over+Kotlin;Turning+side+projects+into+real+products" alt="Typing SVG" />
@@ -31,7 +31,7 @@
 
 I am **Nitish Mandal**, a Computer Engineering student focused on building practical products that combine **software, hardware and real-world automation**.
 
-My work currently spans **full-stack development, Kotlin Android applications, voice interfaces, IoT systems and backend architecture**.
+My work currently spans **full-stack Java development, Kotlin Android applications, voice interfaces, IoT systems and backend architecture**.
 
 ### Currently Building
 
@@ -41,7 +41,7 @@ My work currently spans **full-stack development, Kotlin Android applications, v
 
 ### Looking For
 
-Full-Stack and Android internship opportunities, freelance projects, and collaborations involving practical product development.
+Full-Stack Java and Android internship opportunities, freelance projects, and collaborations involving practical product development.
 
 </td>
 
