@@ -93,10 +93,11 @@ status  : Open to Full-Stack / Android internship & freelance opportunities
 
 ## Contribution Snake
 
-> Add the [snake workflow](https://github.com/Platane/snk) to your `mandalnitish/mandalnitish` repo's Actions to auto-generate this — it's a fun animated version of your contribution graph. Once set up, embed it here:
-```md
-<img src="https://raw.githubusercontent.com/mandalnitish/mandalnitish/output/github-contribution-grid-snake-dark.svg"/>
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mandalnitish/mandalnitish/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
 
 ---
 
